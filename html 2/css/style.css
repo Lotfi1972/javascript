@@ -1,0 +1,31 @@
+h1
+{
+    font-size: 50px;
+    color:red;
+    border-style: solid;
+    background: gold;    ;
+}
+h2
+{
+    font-size: 40px;
+    color: red;
+    border-style: rgb(153, 60, 23);
+    background-image:url('../../res/images\ \(5\).jpg');
+}
+
+
+body{
+    background-image:url('../../res/566228_park_sad_doroga_skameyka_peyzaj_4308x2865_www.Gde-Fon.com.jpg');
+}
+
+#links
+{
+    color:red;
+}
+.container {
+    color:green;
+}
+#test
+{colors:red
+
+}

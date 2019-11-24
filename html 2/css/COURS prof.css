@@ -1,0 +1,46 @@
+/*   rani ena lahne hatit couleur hamra   */
+/* p{
+    color: red;
+    font-size: 40px;
+    font-weight: bold;
+}
+h2{
+    color:green;
+}
+#ala{
+    color: yellow;
+}
+.ahmed{
+    color:yellow;
+}
+.big{
+    font-size: 30px;
+} */
+
+
+
+p{
+    font-size: 40px;
+
+    color: turquoise;
+}
+.border{
+    border: 1px solid black;
+    line-height: 60px;
+}
+p.border{
+}
+p:hover{
+    color:red;
+    /* font-size: 50px; */
+}
+#margin-bot{
+    margin-bottom:200px;
+    padding:50px;
+
+    border: 1px solid black;
+}
+ul *{
+    display:inline-block;
+    margin-right:50px;
+}
